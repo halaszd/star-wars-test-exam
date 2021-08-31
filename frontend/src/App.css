@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.characters {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.character {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
